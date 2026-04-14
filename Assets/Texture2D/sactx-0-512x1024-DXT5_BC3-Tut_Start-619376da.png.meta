@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 383a9a19caf684048a2b3f22afbb7c54
+timeCreated: 1773514848
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_0
+    21300002: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_1
+    21300004: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_2
+    21300006: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_3
+    21300008: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_4
+    21300010: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_5
+    21300012: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_6
+    21300014: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_7
+    21300016: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 17.601841
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 610
+        width: 316
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 439
+        width: 186
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 678
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 260
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 234
+        width: 262
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 263
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 238
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 222
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x1024-DXT5_BC3-Tut_Start-619376da_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 259
+        width: 133
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

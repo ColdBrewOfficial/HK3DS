@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 10a414dd58cab02469bc5aa4d7a59992
+timeCreated: 1773514698
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_0
+    21300002: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_1
+    21300004: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_2
+    21300006: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_3
+    21300008: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_9
+    21300010: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_10
+    21300012: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_11
+    21300014: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_12
+    21300016: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_21
+    21300018: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_22
+    21300020: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_23
+    21300022: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_24
+    21300024: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_25
+    21300026: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_26
+    21300028: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_27
+    21300030: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_28
+    21300032: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_29
+    21300034: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_30
+    21300036: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_31
+    21300038: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_32
+    21300040: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_33
+    21300042: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_34
+    21300044: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_36
+    21300046: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_37
+    21300048: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_38
+    21300050: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_39
+    21300052: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_40
+    21300054: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_41
+    21300056: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_42
+    21300058: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_43
+    21300060: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_44
+    21300062: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_45
+    21300064: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_47
+    21300066: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_49
+    21300068: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_50
+    21300070: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_51
+    21300072: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_52
+    21300074: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_53
+    21300076: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_54
+    21300078: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_55
+    21300080: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_56
+    21300082: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_57
+    21300084: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_58
+    21300086: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_59
+    21300088: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_60
+    21300090: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_61
+    21300092: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_62
+    21300094: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_63
+    21300096: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 957
+        width: 205
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 850
+        width: 278
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 758
+        width: 129
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 805
+        width: 101
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 666
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 665
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 666
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 666
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_22
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 518
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 517
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 474
+        width: 158
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_25
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_27
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 403
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 426
+        width: 152
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_30
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 411
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_31
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 426
+        width: 152
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 342
+        width: 176
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 363
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_34
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 362
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 320
+        width: 141
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_37
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 305
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 320
+        width: 141
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_39
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 338
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_40
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 338
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_41
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 339
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 279
+        width: 302
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 253
+        width: 152
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_44
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 253
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_45
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 253
+        width: 152
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 210
+        width: 348
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 141
+        width: 404
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 180
+        width: 80
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_51
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 174
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_52
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 174
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_53
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 180
+        width: 81
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_54
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 178
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_55
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 165
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_56
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 165
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_57
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 166
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 404
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 152
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_60
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 113
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_61
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 128
+        width: 152
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_62
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 66
+        width: 283
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_63
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 85
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Menu-bf604a84_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 404
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

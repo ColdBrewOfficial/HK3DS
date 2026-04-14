@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: c0b0edf290ccbc74db9a6413e692cc32
+timeCreated: 1773514772
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_0
+    21300002: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_1
+    21300004: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_2
+    21300006: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_3
+    21300008: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_4
+    21300010: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_5
+    21300012: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_6
+    21300014: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_7
+    21300016: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_8
+    21300018: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_9
+    21300020: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_10
+    21300022: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_11
+    21300024: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_12
+    21300026: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_13
+    21300028: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_14
+    21300030: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_15
+    21300032: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_16
+    21300034: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_17
+    21300036: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_18
+    21300038: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_19
+    21300040: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_20
+    21300042: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_21
+    21300044: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_22
+    21300046: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_23
+    21300048: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_24
+    21300050: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_25
+    21300052: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_26
+    21300054: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_27
+    21300056: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_28
+    21300058: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_29
+    21300060: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_30
+    21300062: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_31
+    21300064: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_32
+    21300066: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_33
+    21300068: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_34
+    21300070: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_35
+    21300072: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_36
+    21300074: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_37
+    21300076: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_38
+    21300078: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_39
+    21300080: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 847
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 926
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 918
+        width: 303
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 756
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 824
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 827
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 827
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 667
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 733
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 576
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 643
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 623
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 623
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 487
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 553
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 520
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 521
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 463
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 431
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 491
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 366
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 373
+        width: 137
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 340
+        width: 137
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 404
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 333
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 246
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 253
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 334
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 251
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 259
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 216
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 232
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 387
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 152
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_35
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_36
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 113
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 4
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-DXT5_BC3-Buttons_Main-d105b616_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 4
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

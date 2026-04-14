@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 7d44e7107788300418aea4495b372115
+timeCreated: 1773514936
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_0
+    21300002: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_1
+    21300004: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_2
+    21300006: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_3
+    21300008: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_4
+    21300010: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_5
+    21300012: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_6
+    21300014: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_7
+    21300016: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_8
+    21300018: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_9
+    21300020: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_10
+    21300022: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_11
+    21300024: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_12
+    21300026: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_13
+    21300028: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_14
+    21300030: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_15
+    21300032: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_16
+    21300034: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 387
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 351
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 381
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 342
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 279
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 280
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 240
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 233
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 239
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 143
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 135
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 104
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 58
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sactx-0-512x512-DXT5_BC3-Shiny_Item_Anims-9d47ec41_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

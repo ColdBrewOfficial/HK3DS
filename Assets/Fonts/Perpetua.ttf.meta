@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 6f9b73149e1184447a03ec48d332bbb4
+timeCreated: 1773271745
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Perpetua
+  - Noto Serif CJK SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eea6bfdb8ab1ec54bafe3822deab9643, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

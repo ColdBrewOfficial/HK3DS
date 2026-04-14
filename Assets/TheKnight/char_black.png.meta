@@ -1,0 +1,2884 @@
+fileFormatVersion: 2
+guid: cc4ab95391c8f964388266295437ab76
+timeCreated: 1774036310
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: char_black_0
+    21300002: char_black_1
+    21300004: char_black_2
+    21300006: char_black_3
+    21300008: char_black_4
+    21300010: char_black_5
+    21300012: char_black_6
+    21300014: char_black_7
+    21300016: char_black_8
+    21300018: char_black_9
+    21300020: char_black_10
+    21300022: char_black_11
+    21300024: char_black_12
+    21300026: char_black_13
+    21300028: char_black_14
+    21300030: char_black_15
+    21300032: char_black_16
+    21300034: char_black_17
+    21300036: char_black_18
+    21300038: char_black_19
+    21300040: char_black_20
+    21300042: char_black_21
+    21300044: char_black_22
+    21300046: char_black_23
+    21300048: char_black_24
+    21300050: char_black_25
+    21300052: char_black_26
+    21300054: char_black_27
+    21300056: char_black_28
+    21300058: char_black_29
+    21300060: char_black_30
+    21300062: char_black_31
+    21300064: char_black_32
+    21300066: char_black_33
+    21300068: char_black_34
+    21300070: char_black_35
+    21300072: char_black_36
+    21300074: char_black_37
+    21300076: char_black_38
+    21300078: char_black_39
+    21300080: char_black_40
+    21300082: char_black_41
+    21300084: char_black_42
+    21300086: char_black_43
+    21300088: char_black_44
+    21300090: char_black_45
+    21300092: char_black_46
+    21300094: char_black_47
+    21300096: char_black_48
+    21300098: char_black_49
+    21300100: char_black_50
+    21300102: char_black_51
+    21300104: char_black_52
+    21300106: char_black_53
+    21300108: char_black_54
+    21300110: char_black_55
+    21300112: char_black_56
+    21300114: char_black_57
+    21300116: char_black_58
+    21300118: char_black_59
+    21300120: char_black_60
+    21300122: char_black_61
+    21300124: char_black_62
+    21300126: char_black_63
+    21300128: char_black_64
+    21300130: char_black_65
+    21300132: char_black_66
+    21300134: char_black_67
+    21300136: char_black_68
+    21300138: char_black_69
+    21300140: char_black_70
+    21300142: char_black_71
+    21300144: char_black_72
+    21300146: char_black_73
+    21300148: char_black_74
+    21300150: char_black_75
+    21300152: char_black_76
+    21300154: char_black_77
+    21300156: char_black_78
+    21300158: char_black_79
+    21300160: char_black_80
+    21300162: char_black_81
+    21300164: char_black_82
+    21300166: char_black_83
+    21300168: char_black_84
+    21300170: char_black_85
+    21300172: char_black_86
+    21300174: char_black_87
+    21300176: char_black_88
+    21300178: char_black_89
+    21300180: char_black_90
+    21300182: char_black_91
+    21300184: char_black_92
+    21300186: char_black_93
+    21300188: char_black_94
+    21300190: char_black_95
+    21300192: char_black_96
+    21300194: char_black_97
+    21300196: char_black_98
+    21300198: char_black_99
+    21300200: char_black_100
+    21300202: char_black_101
+    21300204: char_black_102
+    21300206: char_black_103
+    21300208: char_black_104
+    21300210: char_black_105
+    21300212: char_black_106
+    21300214: char_black_107
+    21300216: char_black_108
+    21300218: char_black_109
+    21300220: char_black_110
+    21300222: char_black_111
+    21300224: char_black_112
+    21300226: char_black_113
+    21300228: char_black_114
+    21300230: char_black_115
+    21300232: char_black_116
+    21300234: char_black_117
+    21300236: char_black_118
+    21300238: char_black_119
+    21300240: char_black_120
+    21300242: char_black_121
+    21300244: char_black_122
+    21300246: char_black_123
+    21300248: char_black_124
+    21300250: char_black_125
+    21300252: char_black_126
+    21300254: char_black_127
+    21300256: char_black_128
+    21300258: char_black_129
+    21300260: char_black_130
+    21300262: char_black_131
+    21300264: char_black_132
+    21300266: char_black_133
+    21300268: char_black_134
+    21300270: char_black_135
+    21300272: char_black_136
+    21300274: char_black_137
+    21300276: char_black_138
+    21300278: char_black_139
+    21300280: char_black_140
+    21300282: char_black_141
+    21300284: char_black_142
+    21300286: char_black_143
+    21300288: char_black_144
+    21300290: char_black_145
+    21300292: char_black_146
+    21300294: char_black_147
+    21300296: char_black_148
+    21300298: char_black_149
+    21300300: char_black_150
+    21300302: char_black_151
+    21300304: char_black_152
+    21300306: char_black_153
+    21300308: char_black_154
+    21300310: char_black_155
+    21300312: char_black_156
+    21300314: char_black_157
+    21300316: char_black_158
+    21300318: char_black_159
+    21300320: char_black_160
+    21300322: char_black_161
+    21300324: char_black_162
+    21300326: char_black_163
+    21300328: char_black_164
+    21300330: char_black_165
+    21300332: char_black_166
+    21300334: char_black_167
+    21300336: char_black_168
+    21300338: char_black_169
+    21300340: char_black_170
+    21300342: char_black_171
+    21300344: char_black_172
+    21300346: char_black_173
+    21300348: char_black_174
+    21300350: char_black_175
+    21300352: char_black_176
+    21300354: char_black_177
+    21300356: char_black_178
+    21300358: char_black_179
+    21300360: char_black_180
+    21300362: char_black_181
+    21300364: char_black_182
+    21300366: char_black_183
+    21300368: char_black_184
+    21300370: char_black_185
+    21300372: char_black_186
+    21300374: char_black_187
+    21300376: char_black_188
+    21300378: char_black_189
+    21300380: char_black_190
+    21300382: char_black_191
+    21300384: char_black_192
+    21300386: char_black_193
+    21300388: char_black_194
+    21300390: char_black_195
+    21300392: char_black_196
+    21300394: char_black_197
+    21300396: char_black_198
+    21300398: char_black_199
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_black_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1927
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1928
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1927
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1927
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1927
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1927
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1927
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1927
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_8
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1927
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1921
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_10
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1928
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_11
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1929
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_12
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1925
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_13
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1925
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_14
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1929
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_15
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1929
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1800
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1799
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1799
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1799
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_20
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1800
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_21
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1799
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1799
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_23
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1799
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_24
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1799
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_25
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1799
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_26
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1799
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_27
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1799
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1672
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1673
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1672
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1684
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1676
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1676
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_34
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1681
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_35
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1675
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_36
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1665
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_37
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1666
+        width: 54
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_38
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1673
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_39
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1671
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_40
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1316
+        width: 436
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1544
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1544
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1544
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1544
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_45
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1544
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_46
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1544
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_47
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1544
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_48
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1544
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_49
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1546
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_50
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1545
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_51
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1545
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_52
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1546
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1417
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1416
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_55
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1417
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_56
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1418
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1419
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_58
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1418
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1417
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_60
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1416
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_61
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1417
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_62
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1418
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_63
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1419
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1287
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1287
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1287
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_67
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1286
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_68
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1286
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_69
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1287
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_70
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1287
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_71
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1287
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_72
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1287
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_73
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1287
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_74
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1287
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_75
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1287
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1159
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_77
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1159
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1159
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_79
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1158
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1158
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_81
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1159
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_82
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1160
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_83
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1159
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_84
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1159
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_85
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1159
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_86
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1159
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_87
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1159
+        width: 53
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_88
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1031
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_89
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1031
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_90
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1031
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_91
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1030
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_92
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1030
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_93
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1031
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_94
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1031
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_95
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1030
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_96
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1030
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_97
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1031
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_98
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1035
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_99
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1036
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_100
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1035
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_101
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1036
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_102
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1035
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_103
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 904
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_104
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 904
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_105
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 904
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_106
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 904
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_107
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 904
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_108
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 904
+        width: 56
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_109
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 904
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_110
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 897
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_111
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 897
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_112
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 897
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_113
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 897
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_114
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 897
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_115
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 897
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_116
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 897
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_117
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 897
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_118
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 777
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_119
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 775
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_120
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 775
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_121
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 779
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_122
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 780
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_123
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 782
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_124
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 781
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_125
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 781
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_126
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 775
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_127
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 779
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_128
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 780
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_129
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 782
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_130
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 768
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_131
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 768
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_132
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 774
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_133
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 773
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_134
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 641
+        width: 55
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 642
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_136
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 640
+        width: 50
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_137
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 640
+        width: 51
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_138
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 649
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_139
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 647
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_140
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 654
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_141
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 654
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_142
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 655
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_143
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 653
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_144
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 655
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_145
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 647
+        width: 52
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_146
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 645
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_147
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 644
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_148
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 647
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_149
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 647
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_150
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 531
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 518
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 531
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_153
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 528
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 537
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_155
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 537
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_156
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 537
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_157
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 537
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_158
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 537
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_159
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 537
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_160
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 529
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_161
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 384
+        width: 24
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_162
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 433
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_163
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 417
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_164
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_165
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 385
+        width: 65
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 389
+        width: 30
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_167
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 389
+        width: 26
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_168
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 417
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_169
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 445
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_170
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 471
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_171
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 395
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_172
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 398
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_173
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 402
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_174
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 425
+        width: 255
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_175
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 421
+        width: 127
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_176
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 300
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_177
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 302
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_178
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 290
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_179
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 312
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_180
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 294
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_181
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 304
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_182
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 295
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_183
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 296
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_184
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 286
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_185
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 293
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_186
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 300
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_187
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 296
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_188
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 299
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_189
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 299
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_190
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 290
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_191
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 287
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_192
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_193
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_194
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_195
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_196
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_197
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_198
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: char_black_199
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 136
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
