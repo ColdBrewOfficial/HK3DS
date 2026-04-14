@@ -1,4 +1,4 @@
-## READ THIS FIRST
+# READ THIS FIRST
 I have not been able to get the game to compile, only the main menu "works" but the textures are too high resolution to be acceptable on the 3DS. Feel free to fix and fork (ill figure out how to let others make commits, im js figuring out Git)
 # HK3DS
 This repo hosts the Hollow Knight 3DS Demake source code and CIA releases.
